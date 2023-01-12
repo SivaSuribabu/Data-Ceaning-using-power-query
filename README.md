@@ -1,1 +1,1 @@
-# Data-Ceaning-using-power-query
+# Data-Cleaning-using-power-query
